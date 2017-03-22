@@ -1,0 +1,12 @@
+12:51:56 Пистолет поднят
+12:51:56 Запрос transaction/get-status
+12:51:57 Запрос transaction/get-status
+12:51:57 Запрос transaction/get-status
+12:51:58 Запрос transaction/get-status
+12:51:58 Запрос transaction/get-status
+12:51:59 Запрос transaction/get-status
+12:51:59 Запрос transaction/get-status
+12:52:00 Запрос transaction/get-status
+12:52:00 Запрос transaction/get-status
+12:52:01 Запрос transaction/get-status
+12:52:01 Пистолет повешен

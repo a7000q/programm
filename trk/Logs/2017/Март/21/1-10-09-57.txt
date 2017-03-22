@@ -1,0 +1,32 @@
+10:09:57 Пистолет поднят
+10:09:57 Запрос transaction/get-status
+10:09:58 Запрос transaction/get-status
+10:09:59 Запрос transaction/get-status
+10:10:00 Запрос transaction/get-status
+10:10:01 Запрос transaction/get-status
+10:10:02 Запрос transaction/get-status
+10:10:03 Запрос transaction/get-status
+10:10:04 Запрос transaction/get-status
+10:10:05 Запрос transaction/get-status
+10:10:06 Запрос transaction/get-status
+10:10:07 Запрос transaction/get-status
+10:10:08 Запрос transaction/get-status
+10:10:09 Запрос transaction/get-status
+10:10:10 Запрос transaction/get-status
+10:10:10 Ответ transaction/get-status успешно
+10:10:11 Установка цены: 35,5
+10:10:11 Задана доза: 2,85999989509583
+10:10:11 Санкционирование
+10:10:13 Заправка: 0
+10:10:14 Заправка: 0
+10:10:15 Заправка: 0
+10:10:16 Заправка: 0,06
+10:10:17 Заправка: 0,33
+10:10:18 Заправка: 1,38
+10:10:19 Заправка: 2,44
+10:10:20 Заправка: 2,75
+10:10:21 Заправка: 2,82
+10:10:22 Завершение транзакции ТРК
+10:10:22 Запрос transaction/end-transaction
+10:10:22 Ответ transaction/end-transaction успешно
+10:10:25 Пистолет повешен

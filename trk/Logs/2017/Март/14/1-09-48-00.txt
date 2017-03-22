@@ -1,0 +1,59 @@
+09:48:00 Пистолет поднят
+09:48:00 Запрос transaction/get-status
+09:48:01 Запрос transaction/get-status
+09:48:01 Запрос transaction/get-status
+09:48:01 Запрос transaction/get-status
+09:48:02 Запрос transaction/get-status
+09:48:02 Запрос transaction/get-status
+09:48:03 Запрос transaction/get-status
+09:48:04 Запрос transaction/get-status
+09:48:04 Запрос transaction/get-status
+09:48:04 Запрос transaction/get-status
+09:48:05 Запрос transaction/get-status
+09:48:05 Запрос transaction/get-status
+09:48:06 Запрос transaction/get-status
+09:48:07 Запрос transaction/get-status
+09:48:07 Запрос transaction/get-status
+09:48:08 Запрос transaction/get-status
+09:48:08 Запрос transaction/get-status
+09:48:09 Запрос transaction/get-status
+09:48:09 Запрос transaction/get-status
+09:48:10 Запрос transaction/get-status
+09:48:10 Запрос transaction/get-status
+09:48:11 Запрос transaction/get-status
+09:48:11 Запрос transaction/get-status
+09:48:12 Запрос transaction/get-status
+09:48:12 Запрос transaction/get-status
+09:48:13 Запрос transaction/get-status
+09:48:13 Ответ transaction/get-status успешно
+09:48:13 Запрос transaction/get-status
+09:48:13 Ответ transaction/get-status успешно
+09:48:13 Установка цены: 10
+09:48:13 Задана доза: 1
+09:48:13 Санкционирование
+09:48:15 Заправка: 0
+09:48:16 Заправка: 0
+09:48:16 Заправка: 0
+09:48:17 Заправка: 0
+09:48:17 Заправка: 0
+09:48:18 Заправка: 0
+09:48:18 Заправка: 0,02
+09:48:19 Заправка: 0,06
+09:48:19 Заправка: 0,1
+09:48:20 Заправка: 0,29
+09:48:20 Заправка: 0,78
+09:48:21 Заправка: 0,82
+09:48:21 Заправка: 0,87
+09:48:22 Заправка: 0,9
+09:48:22 Заправка: 0,93
+09:48:23 Заправка: 0,95
+09:48:23 Заправка: 0,96
+09:48:24 Заправка: 0,97
+09:48:24 Заправка: 0,98
+09:48:25 Заправка: 0,99
+09:48:25 Завершение транзакции ТРК
+09:48:26 Запрос transaction/end-transaction
+09:48:26 Ответ transaction/end-transaction успешно
+09:48:26 Завершение транзакции ТРК
+09:48:26 Запрос transaction/end-transaction
+09:49:23 Пистолет повешен
